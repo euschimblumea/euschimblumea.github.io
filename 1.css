@@ -1,0 +1,96 @@
+body {background-color: #000000}
+button{color: black}
+	p {font-size: 1em;}
+	
+	h2{color:#ffffff}
+	button {
+    background-color: #000000; 
+    border: 1px solid #ffffff;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
+	
+element.style {
+}
+.alert-primary {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #ffffff;
+}
+	element.style {
+}
+
+.alert-success {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #ffffff;
+	 
+}
+
+element.style {
+}
+.form-control {
+    
+	display: block;
+    width: 100%;
+    padding: .335rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ffffff;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+element.style {
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #000000;
+    border-color: #ffffff;
+}
+.btn {
+  
+   display: inline-block;
+   
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1-px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.6;
+    border-radius: 0rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+textarea {
+	resize:vertical;
+	outline:none;
+	border-width:1px;
+	font-size:17px;
+	text-align:center;
+	background:#000000;
+	color: #ffffff;
+	text-transform: capitalize;
+	
+	
+}
+label{color: #ffffff;}
+function{color:#000000}
+	p {
+		color:#ffffff;
+		text-transform: capitalize;
+	}
+	
